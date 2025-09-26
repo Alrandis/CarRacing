@@ -16,15 +16,16 @@
 - Управление расчитано как для мобильных устройтв так и для ПК. 
 
 # Запуск проекта
-- В папке Build есть скомпилированная версия мобильного приложения пригодная для тестирования, а так же компьютерный файл .exe
+- В папке Build есть скомпилированная версия мобильного приложения пригодная для тестирования в подпапке apk, а так же компьютерный файл .exe в подпапке windows
 
 # Скриншоты и геймплей
-![Menu](Screenshots/Menu.jpg) 
-![Room](Screenshots/Room.jpg) 
-![Authors](Screenshots/Authors.jpg)
-![EndGame](Screenshots/EndGame.jpg) 
+![Authors](Screenshots/Authors.png) 
+![Setting](Screenshots/Setting.png) 
+![LevelSelection](Screenshots/LevelSelection.png)
+![Level1](Screenshots/Level1.png) 
+![Level2](Screenshots/Level2.png) 
 
-![DoorOpen Gif](Screenshots/DoorOpen.gif) 
-![AttackZombie Gif](Screenshots/AttackZombie.gif)
-![GhostDialog Gif](Screenshots/GhostDialog.gif)
-![Interaction Gif](Screenshots/Interaction.gif)
+![CarUpgrade Gif](Screenshots/CarUpgrade.gif) 
+![ChoiseCar Gif](Screenshots/ChoiseCar.gif)
+![Boss Gif](Screenshots/Boss.gif)
+![Arest Gif](Screenshots/Arest.gif)
