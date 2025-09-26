@@ -19,13 +19,13 @@
 - В папке Build есть скомпилированная версия мобильного приложения пригодная для тестирования в подпапке apk, а так же компьютерный файл .exe в подпапке windows
 
 # Скриншоты и геймплей
-![Authors](Screenshots/Authors.png) 
-![Setting](Screenshots/Setting.png) 
-![LevelSelection](Screenshots/LevelSelection.png)
-![Level1](Screenshots/Level1.png) 
-![Level2](Screenshots/Level2.png) 
+![Authors](screenshots/Authors.png) 
+![Setting](screenshots/Setting.png) 
+![LevelSelection](screenshots/LevelSelection.png)
+![Level1](screenshots/Level1.png) 
+![Level2](screenshots/Level2.png) 
 
-![CarUpgrade Gif](Screenshots/CarUpgrade.gif) 
-![ChoiseCar Gif](Screenshots/ChoiseCar.gif)
-![Boss Gif](Screenshots/Boss.gif)
-![Arest Gif](Screenshots/Arest.gif)
+![CarUpgrade Gif](screenshots/CarUpgrade.gif) 
+![ChoiseCar Gif](screenshots/ChoiseCar.gif)
+![Boss Gif](screenshots/Boss.gif)
+![Arest Gif](screenshots/Arest.gif)
